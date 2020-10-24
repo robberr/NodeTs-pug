@@ -1,0 +1,9 @@
+build
+.DS_Store
+.cache
+/node_modules/
+yarn.lock
+yarn-error.log
+package-lock.json
+dist
+NodeTs-pug.njsproj
